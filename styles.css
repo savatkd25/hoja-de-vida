@@ -204,7 +204,7 @@ body{
 }
 
 .tl-title{
-    letter-spacing: 1px;
+    letter-spacing: 0px;
     font-size: 1.3rem;
     color: #002333;
     text-transform: uppercase;
